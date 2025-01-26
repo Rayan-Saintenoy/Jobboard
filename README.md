@@ -25,7 +25,7 @@ Assurez-vous de créer un fichier `.env` dans **deux dossiers** :
 - 📁 `jobboard-frontend` : pour le frontend
 - 📁 `jobboard-backend` : pour le backend
 
-### demarrer le backend :
+### Demarrer le backend :
 
 1. Dans le dossier `jobboard-backend`
 2. Lancer la commande `npm run start:dev`
